@@ -22,6 +22,6 @@
 
 * import pandas as pd
 
-* import seaborn
+* import seaborn as sns
 
   
